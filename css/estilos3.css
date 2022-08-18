@@ -1,0 +1,82 @@
+*{
+	padding: 0;
+}
+html{
+    background-color:rgb(187, 185, 185);
+}
+.encabezado{
+    height: 250px;
+    width: 750px;
+}
+#video{
+    height: 250px;
+    width: 500px;
+    background-color: rgb(12, 12, 12);
+    float: right;
+}
+#logo{
+    height: 250px;
+    width: 250px;
+    float: left;
+}
+.botonera{
+    height: 50px;
+    background-color:rgb(14, 14, 202);
+}
+.botonera ul{
+    list-style: none;
+  
+}
+.botonera a{
+    color: rgb(252, 240, 240);
+    padding: 20px;
+    text-decoration: none;
+    font-family: arial;
+
+}
+.botonera ul li{
+    float: left;
+    position: sticky;
+}
+body{
+    height: 850px;
+    width: 750px;
+    background-color: rgb(173, 11, 11);
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+}
+h1, h2{
+    color: white;
+}
+.contenedor_carga{
+    border: 5px solid white;
+}
+.boton_enviar{
+    padding: 5px;
+    margin-top: 20px;
+    align-items: center 20px;
+    background-color: grey;
+    color: white;
+}
+form{
+    padding: color red 20px;
+    background-color: rgb(105, 104, 104);
+    margin: 10px;
+}
+.boton_eli{
+    background-color: blue;
+    border: solid black 3px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+#archivo{
+    background-color: darkslategray;
+}
+footer{
+    height: 50px;
+    background-color:rgb(14, 14, 202);
+    font-family: Arial 3px;
+    color:rgb(252, 227, 227);
+}
